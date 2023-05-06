@@ -22,8 +22,8 @@ class Form {
 
 
         void signUP(){
-            ofstream userFilename("userFilename.txt");
-            ofstream userFilepassword("userFilepassword.txt");
+            ofstream userFilename("userFilename.xlsx");
+            ofstream userFilepassword("userFilepassword.xlsx");
             cout << "please enter a name \n";
             getline(cin,name);
             userFilename << name;
@@ -43,28 +43,18 @@ class Form {
             getline(cin,username);
             cout << username << " please enter your password:- ";
             getline(cin,password);
-            ifstream userFilename("userFilename");
-            ifstream userFilepassword("userFilepassword.txt");
+            ifstream userFilename("userFilename.xlsx");
+            ifstream userFilepassword("userFilepassword.xlsx");
             while (getline(userFilename, nametext)){
-                if(username == nametext){
-                    cout << "correct username\n";                                        //   error
-                }
-                else{
-                    cout << "Incorrect username\n";
-                    break;
-                }
             }
             while (getline(userFilepassword, passtext)){
-                if(password == passtext){
-                    cout << "correct password\n";
-                }
-                else{
-                    cout << "Incorrect password\n";
-                    break;
-                }
             }
-
-            cout << "Login Successfull" << endl;
+            if(username == name && password == pass){
+                cout << "login successful\n";
+            }
+            else{
+                cout << "incorrect username or password\n";
+            }
             userFilename.close();
             userFilepassword.close();
             inoutf();
