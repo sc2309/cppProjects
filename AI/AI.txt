@@ -1,0 +1,20 @@
+mostly used languages in AI are python C\C++ java Matlab lisp
+we write code in python and it has to be converted into C++ for increasing run time performance(c++ is faster than python)
+to learn ML you should know fundamentals of maths,know python,should be comfortable with libraries like NUMPY,Panda
+	and more,should take AI courses,practise a lot.
+and it is said that we should start with python because it is easy
+data in robots can be stored in 
+	embedded platform = inside robots
+	                    low latency
+	cloud servers = outside robots
+					high latency
+and yes starlink uses many different programming languages like python C++ etc.
+mostly for NLP,sentiment analysis python is used.
+	for fraud detection,network security java is used.
+and for robotics,speech recognition,games C++ is wiedly used to make them lighter and fast.
+some factors that select your language in which you will work are
+	domain &
+	ranking
+	
+
+						

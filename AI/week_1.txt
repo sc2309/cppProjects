@@ -1,0 +1,18 @@
+video 1 : introduction
+
+AI is a developing technology
+two types of AI 
+    ANI (artificial narrow intelligence):
+	it is capable of talking to us recgnise images 
+	
+	AGI (artificial general intelligence):
+	it is capable of doing all the work which a human can doing
+	
+video 2 : Machine Learning
+
+Two types of ML:
+    Supervised Learning:
+	A(input) ---> B(output)
+	e.g. => spam filtering, self driving cars, speech recognition
+	
+	
