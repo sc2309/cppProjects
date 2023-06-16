@@ -10,7 +10,7 @@ two types of AI
 	
 video 2 : Machine Learning
 
-Two types of ML:
+most used type of ML:
     Supervised Learning:
 	A(input) ---> B(output)
 	e.g. => spam filtering, self driving cars, speech recognition
