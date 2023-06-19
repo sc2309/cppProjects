@@ -56,5 +56,24 @@ video 4 : the terminology of AI:
 	Neural Networks:
 		it is a way to process data.It was inspired by brain.
 these are some ai tool there are many others used for developing a AI.
+AI is made up of ML,a bit of DS,DP,NN,other things.
 
-	
+-----------------------------------------------------------------------------------------------------------------------------
+video 5 : what makes an AI company:
+Some things that make a company an AI company are:
+Internet company:
+	it consists of A/B testing,short delivering time,decision making is passed to engineersand other specialized roles not
+    just having a website.
+	we can say that an Internet company is a company that makes Internet makes it possible to do.
+	from internet era
+AI company:
+it consists of stragtegic data aacquisiton,unified data warehouse,they try to make things automatic,they divide labour and add new jobs.we can say that an AI company is a company that makes AI makes it possible to do.
+How can a company become good at AI:
+	execute small projects to gain momentum.
+	build an AI team.
+	provide good training to AI team even managers.
+	develop an AI strategy.
+	develop internal and external communication.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
