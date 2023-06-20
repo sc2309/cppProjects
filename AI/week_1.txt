@@ -76,4 +76,14 @@ How can a company become good at AI:
 	develop internal and external communication.
 
 -----------------------------------------------------------------------------------------------------------------------------
+video 6 : what ML can and cannot do:
+AI cannot doall things.
+e.g.: it cannot analayze a market
+	  it can't write 2 to 3 para response with 1000 examples because there is not enough data.
+	  
+what makes a ML problem easy:
+	learning a simple 
+	lots of data availability both input and output.
 
+-----------------------------------------------------------------------------------------------------------------------------
+video 7 : more examples of what ML can and annot do:
