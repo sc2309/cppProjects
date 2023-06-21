@@ -87,3 +87,11 @@ what makes a ML problem easy:
 
 -----------------------------------------------------------------------------------------------------------------------------
 video 7 : more examples of what ML can and annot do:
+outputing human intention is hard for an ai reason for this is less data and high accuray(busause AI will be used at construction site.
+diagnose pneumoniafrom 10 images of a medical textbook chapter explaining pnuemonia.
+strength and weaknesses of ML:
+	learning a simple cncept.
+	when there is a lot ofdata available.
+weakness:
+	learning complex concept with small amount of data
+	it is bad at performing new type of data.
