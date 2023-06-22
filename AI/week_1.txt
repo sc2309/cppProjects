@@ -95,3 +95,11 @@ strength and weaknesses of ML:
 weakness:
 	learning complex concept with small amount of data
 	it is bad at performing new type of data.
+
+-----------------------------------------------------------------------------------------------------------------------------
+video 8 : non-technical definition of deep learning:
+nueral networks are a group of artificial nuerons which can Process data and give us the output B from Input A.
+for example check the nueral network structure.jpeg from here C:\Users\hp\Pictures\Saved Pictures.
+
+-----------------------------------------------------------------------------------------------------------------------------
+video 9 :
