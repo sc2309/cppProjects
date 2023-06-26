@@ -3,7 +3,7 @@ video 1 : introduction
 AI is a developing technology
 two types of AI 
     ANI (artificial narrow intelligence):
-	it is capable of talking to us recgnise images 
+	it is capable of talking to us recognises images 
 	
 	AGI (artificial general intelligence):
 	it is capable of doing all the work which a human can doing
@@ -41,7 +41,7 @@ types of aquiring data:
 	it is pretty common download data from a website or parternership.
 it is told in the video that when we start collecting data we should start building AI to AI team can give feedback to Data
 	team
-DATA shold not be thrown to AI team considering it as valuable sometimes it can be less or mre than enough.
+DATA shold not be thrown to AI team considering it as valuable sometimes it can be less or more than enough.
 data should not be a garbage or else AI will not work properly.
 incorrect data may include missing values,incorrect values it should be structured.
 
@@ -103,3 +103,6 @@ for example check the nueral network structure.jpeg from here C:\Users\hp\Pictur
 
 -----------------------------------------------------------------------------------------------------------------------------
 video 9 :
+NN can work with images and audios too it can input the brightness level of each pixel in an image as input and output his identity.
+--------------------------------------------------------------------------------------------------------------------------------------
+week  1  ends  here

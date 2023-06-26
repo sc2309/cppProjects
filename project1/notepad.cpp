@@ -4,16 +4,21 @@ using namespace std;
 
 class Notepad {
     private:
-        string user_text,file_name,user_CHOISE;
+        string user_text,file_name,user_CHOISE,efilen,etext,OLD_TEXT[1000];
     public:
         void IOfunc(){
-            cout << "please enter the opertion:-\nwrite a file\nopen a file to read\n";
+            cout << "please enter the opertion:-\nwrite a file\nopen a file to read\nedit a file(note:can only add a sentence)\n";
             getline(cin,user_CHOISE);
             if(user_CHOISE == "write a file"){
                 fileOpen();
             }
             else if(user_CHOISE == "open a file to read"){
                 fileRead();
+            }
+            else if(user_CHOISE == "edit a file"){
+                cout << "please enter the file name with .extention\n";
+                getline(cin,efilen);
+                fileEdit();
             }
             else{
                 cout << "SORRY! an error occured\n";
@@ -50,6 +55,23 @@ class Notepad {
             cout << endl;
             IOfunc();
             cout << endl;
+        }
+        void fileEdit(){
+            cout << "please enter the text to be added\n";
+            getline(cin,etext);
+            ofstream UserFile(efilen);
+            oldText();
+            string newtext = OLD_TEXT[1000] + etext;
+            UserFile << newtext;
+            UserFile.close();
+        }
+        string oldText(){
+            ifstream uSERfILE(efilen);
+            string t;
+            while(getline(uSERfILE,t)){
+                t = OLD_TEXT[1000];
+            }
+            uSERfILE.close();
         }
 };
 

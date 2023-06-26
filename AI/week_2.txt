@@ -1,0 +1,13 @@
+video 1 : introduction :
+video 2 : Work flow of an ML project:
+	INPUT A -----> OUTPUT B.
+	when we work with an Machine Learning project we should start with:
+		1.collecting data
+		2.train model
+			do this until it is good enough
+		3.deploy model
+			remove or update model and its data
+	example:- a model that detects cars
+	first we should input the images and the model will output a red rectangle around the car.
+	at first it may seem worthless but we just need to train it
+	and when good enough deploy the model
