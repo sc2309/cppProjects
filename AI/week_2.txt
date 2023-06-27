@@ -11,3 +11,18 @@ video 2 : Work flow of an ML project:
 	first we should input the images and the model will output a red rectangle around the car.
 	at first it may seem worthless but we just need to train it
 	and when good enough deploy the model
+
+-----------------------------------------------------------------------------------------------------------------------------
+video 3 : workflow of a data science prooject:
+	example we sell products online:
+		as workflow of DS project is different form ML project
+		key steps of DS project:
+			1.collect data.
+			2.analyze data.
+				iterate as many times till it becomesgood insights.
+			3.suggest actions/hypotheses:
+				deploy changes
+				re analyze new data periodically.
+		we should put these to new problems
+
+-----------------------------------------------------------------------------------------------------------------------------
