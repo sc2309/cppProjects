@@ -26,3 +26,7 @@ video 3 : workflow of a data science prooject:
 		we should put these to new problems
 
 -----------------------------------------------------------------------------------------------------------------------------
+viseo 4 :  every job function needs to learn how to use data
+DS and ML can help in any job from sales to agriculture.
+
+----------------------------------------------------------------------------------------------------------------------------
