@@ -30,3 +30,29 @@ viseo 4 :  every job function needs to learn how to use data
 DS and ML can help in any job from sales to agriculture.
 
 ----------------------------------------------------------------------------------------------------------------------------
+video 5 : how to choose an AI project:
+think about automating tasks instead of jobs.
+you can make progress without big data it is possible to work with small data set.
+think if AI can do the piece of work.
+technical deligence:-
+	can AI system meet desired performance.
+	how much data is needed.
+	engineering timeline.
+business deligence:
+	lower costs
+	increase revenue
+	launch new product or business.
+	ML projects can be in house or outsourced.
+	DS projects are more commonly in house.
+	some things will be industry standard avoid building those.
+-----------------------------------------------------------------------------------------------------------------------------
+video 7 : working with an AI team:
+	specify your acceptance criteriae.g. detect flaw with 97% accuracy.
+	should have a data set on which to measure their performance.it is also known as test set(a smal data set).
+	two types of data set:
+		1.training set
+		2.test set
+	an AI model is not 100% accurate.
+-----------------------------------------------------------------------------------------------------------------------------
+	
+	
