@@ -1,0 +1,27 @@
+video 2 : case study,smart speakers:
+steps to process command:
+	a.trigger word/wakeword detection helps the device to wake up. E.g.-> 'Hey Siri' this is done with ML a to b maping.
+	b.speech recognition to take voice input. E.g. -> 'call Mom' this is done with ML a to b maping.
+	c.Intent recoginition helps to tell speaker what are intention is example 'tell me a joke' here the command is 'joke'.
+		as they have limited set of commands this finds out the command.
+	d.execute command for example speaker tells a randomly found joke.
+this is also known as AI pipeline.
+with  complex command e.g. hey device,set alarm for 10:00 pmprocess are same till Intent recognition after that speaker 
+	extracts the time e.g. 10:00 pm and a piece of software sets alarm according to the duration.
+key steps:
+	trigger word detection
+	speech recoginition
+	intent recoginition
+	a special program to execute the command
+-----------------------------------------------------------------------------------------------------------------------------
+video 3 : case study : self driving cars :
+	it takes input as images,radar,laser detectionand to detect an object infront of the car.
+	it finds the location of them e.g. -> how far they are,they are on left or right side
+	now this information goes to a program called motion planning this program plans the path for the car.
+	now the path goes to steering,accelerate,brakes
+	car detection uses supervised learning A to B input output
+	it also uses GPS Maps to travel.
+	a major component is trajectory prediction which allows us to predict where the object infront of car will go later.Even
+		it uses lane detection,traffic light detection,obstacle detection.
+	
+	
