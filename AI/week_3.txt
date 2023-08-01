@@ -23,5 +23,25 @@ video 3 : case study : self driving cars :
 	it also uses GPS Maps to travel.
 	a major component is trajectory prediction which allows us to predict where the object infront of car will go later.Even
 		it uses lane detection,traffic light detection,obstacle detection.
-	
-	
+-----------------------------------------------------------------------------------------------------------------------------
+video 4 : Example rolen of an AI team :
+
+	a good product requires a large number of engineers.
+	some of them are:
+		a. Software Engineer:
+			for writing programs e.g. program for execution of joke.
+		b.ML engineer:
+			for maping A -> B maping and special algorithms.
+		c.Machine Learning Researcher:
+			extend state of art in ML
+		d.Ml scientist:
+			they do the work of both b. and c. and lie somewhere between them
+		e.Data scientist:
+			analyze the data and provide insights
+			presentation of data to team
+		f.Data Engineer:
+			analyze data
+			make data safe,accessible,cost effective
+		g.AI product manager:
+			Help to decide what to build
+-----------------------------------------------------------------------------------------------------------------------------
